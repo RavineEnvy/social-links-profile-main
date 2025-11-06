@@ -8,8 +8,6 @@ This repository contains a solution to a [Frontend Mentor](https://www.frontendm
 
 **To do this challenge, I need a basic understanding of HTML and CSS.**
 
-<img href="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif" width="20%"></img>
-
 ## The challenge
 
 Challenge is to build out this social links profile and get it looking as close to the design as possible.
